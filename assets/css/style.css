@@ -127,7 +127,7 @@ header{
 	background-repeat: none;
 	background-size: cover;
 	background-attachment: fixed;
-	height: 150%;
+	height: 160%;
 	overflow: auto;
 }
 
@@ -334,14 +334,14 @@ body{
 #best{
 	text-align: center;
 }
-#works{
+/* #works{
 	background-image: url(../image/D2.jpg);
    background-repeat: none;
    background-size: cover;
    background-attachment: fixed;
    height: 70%;
    overflow: auto;
-}
+} */
 /* #home {
     background-image: url(../image/background.jpg);
 	background-repeat: none;
