@@ -43,14 +43,13 @@ header{
 .strong{
 	font-weight: 900;
 }
-
 #home {
     background-image: url(../image/background.jpg);
 	background-repeat: none;
 	background-size: cover;
 	background-attachment: fixed;
-	height: 100%;
 	overflow: auto;
+	height: 100%;
 }
 
 
@@ -343,14 +342,14 @@ body{
    height: 70%;
    overflow: auto;
 }
-#home {
+/* #home {
     background-image: url(../image/background.jpg);
 	background-repeat: none;
 	background-size: 1024px 1366px;
 	background-attachment: fixed;
 	overflow: auto;
 	height: 85%;
-}
+} */
 .programming img
 {
 	height: 300px;
